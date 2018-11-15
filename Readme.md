@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[Program.cs](./CS/Program.cs) (VB: [Program.vb](./VB/Program.vb))**
+<!-- default file list end -->
 # How to define a persistent class at runtime
 
 
