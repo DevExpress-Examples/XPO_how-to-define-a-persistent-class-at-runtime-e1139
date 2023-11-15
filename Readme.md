@@ -6,7 +6,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* **[Program.cs](./CS/CreateClassAtRuntime/Program.cs) (VB: [Program.vb](./VB/CreateClassAtRuntime/Program.vb))**
+* **[Program.cs](./CS/CreateClassAtRuntime/Program.cs)**
 <!-- default file list end -->
 # How to define a persistent class at runtime
 
